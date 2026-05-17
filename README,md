@@ -1,0 +1,43 @@
+# Week 2: CSS Mastery Responsive Portfolio
+
+## Author
+
+- **Name:** Maria11319
+- **GitHub:** [@Maria11319](https://github.com/Maria11319)
+- **Date:** May 2026
+
+## Project Description
+
+A responsive portfolio website built using advanced CSS techniques including Flexbox, Grid, and the Box Model. The project focuses on creating a visually appealing and fully responsive layout.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+
+## Features
+
+- Responsive layout using Flexbox and Grid
+- Box model practice
+- CSS daily challenges (day1-day5)
+- Mobile-friendly design
+
+## How to Run
+
+1. Clone this repository
+2. Open `index.html` in your browser
+
+## Lessons Learned
+
+- How to use Flexbox for layouts
+- How to create responsive grids
+- Understanding the CSS Box Model
+- Writing clean and organized CSS
+
+## Challenges Faced
+
+- Making the layout responsive on all screen sizes
+- Understanding the difference between Flexbox and Grid
+- Fixing CSS specificity issues
